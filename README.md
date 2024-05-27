@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pnkj_2003
+- 👋 Hi, I’m Probin
 - 👀 I’m have just started coding and learning...
-- 🌱 I’m currently learning DSA on C++ ...
--
-- 📫 you can reach me at my instagram handle--  @pnkj_2003...
+- 🌱 I’m currently learning DSA on C++  and web dev
+
+
 
 <!---
 probin-dhakal/probin-dhakal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
