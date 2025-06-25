@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Probin
-- 👀 I’m have just started coding and learning...
-- 🌱 I’m currently learning DSA on C++  and web dev
-
-
-
-<!---
-probin-dhakal/probin-dhakal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Probin Dhakal
+💻 I’m a web developer passionate about building interactive and educational web applications.
+🚀 I work mostly with HTML, CSS, JavaScript, and React.
+🧠 Currently diving into the MERN stack (MongoDB, Express, React, Node.js) to enhance my full-stack development skills.
+📫 Reach me at: probindhakal5@gmail.com 
